@@ -21,5 +21,6 @@ Track Your Cell and Tissue Cultures. CellKulture tracks cell cultures from the d
 1. Download [this](http://www.usbwebserver.net/en/) and put it either in a folder on your computer or on a thumb drive
 2. Open up phpmyadmin and import the SQL file
 3. copy the app folder in to the root folder
-4. Done
+4. navigate to localhost:8080/app
+5. Done
 
